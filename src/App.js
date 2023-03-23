@@ -1,5 +1,5 @@
 import "./App.css";
-import Dice from "./Dice";
+import Dice from "./DiceBox";
 
 function App() {
   return (
